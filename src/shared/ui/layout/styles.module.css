@@ -1,0 +1,34 @@
+.layout {
+
+}
+
+.topline {
+    position: absolute;
+    width: 100%;
+    height: 32px;
+    background: #111;
+    padding: 0;
+    margin: 0;
+    right: 0;
+    top: 0;
+}
+
+.main {
+    position: absolute;
+    /* top: 32px; */
+    top: 0;
+    left: 0;
+    right: 300px;
+    bottom: 0;
+}
+
+.sidebar {
+    position: absolute;
+    right: 0;
+    /* top: 32px; */
+    top: 0;
+    bottom: 0;
+    width: 300px;
+    background: #111;
+    overflow: auto;
+}

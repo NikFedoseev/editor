@@ -1,0 +1,13 @@
+.tabs {
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.tab {
+    display: inline-block;
+}
+
+.panel {
+
+}
